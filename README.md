@@ -35,6 +35,7 @@ Updated Regularly
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MAVERICKK97/leetcode-solutions/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/MAVERICKK97/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0217-contains-duplicate](https://github.com/MAVERICKK97/leetcode-solutions/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -45,4 +46,8 @@ Updated Regularly
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/MAVERICKK97/leetcode-solutions/tree/master/0217-contains-duplicate) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/MAVERICKK97/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
