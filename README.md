@@ -15,16 +15,6 @@
 - Graphs
 - Dynamic Programming
 
-## Progress
-
-Solved:  Problems
-
-Easy: 
-Medium:
-Hard: 
-
-Updated Regularly
-
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Math
