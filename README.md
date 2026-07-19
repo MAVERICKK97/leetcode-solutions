@@ -35,6 +35,7 @@
 | [0169-majority-element](https://github.com/MAVERICKK97/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MAVERICKK97/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/MAVERICKK97/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0645-set-mismatch](https://github.com/MAVERICKK97/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0724-find-pivot-index](https://github.com/MAVERICKK97/leetcode-solutions/tree/master/0724-find-pivot-index) |
 ## Hash Table
 |  |
@@ -42,6 +43,7 @@
 | [0001-two-sum](https://github.com/MAVERICKK97/leetcode-solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/MAVERICKK97/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MAVERICKK97/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0645-set-mismatch](https://github.com/MAVERICKK97/leetcode-solutions/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
 | ------- |
@@ -49,6 +51,7 @@
 | [0075-sort-colors](https://github.com/MAVERICKK97/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/MAVERICKK97/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MAVERICKK97/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0645-set-mismatch](https://github.com/MAVERICKK97/leetcode-solutions/tree/master/0645-set-mismatch) |
 ## Two Pointers
 |  |
 | ------- |
@@ -68,6 +71,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/MAVERICKK97/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+| [0645-set-mismatch](https://github.com/MAVERICKK97/leetcode-solutions/tree/master/0645-set-mismatch) |
 ## Prefix Sum
 |  |
 | ------- |
