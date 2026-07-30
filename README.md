@@ -52,6 +52,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/MAVERICKK97/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/MAVERICKK97/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MAVERICKK97/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/MAVERICKK97/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/MAVERICKK97/leetcode-solutions/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
@@ -60,6 +61,7 @@
 | [0075-sort-colors](https://github.com/MAVERICKK97/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/MAVERICKK97/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MAVERICKK97/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/MAVERICKK97/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/MAVERICKK97/leetcode-solutions/tree/master/0645-set-mismatch) |
 ## Two Pointers
 |  |
@@ -117,4 +119,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/MAVERICKK97/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/MAVERICKK97/leetcode-solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
