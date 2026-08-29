@@ -81,6 +81,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MAVERICKK97/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/MAVERICKK97/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/MAVERICKK97/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/MAVERICKK97/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MAVERICKK97/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/MAVERICKK97/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/MAVERICKK97/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
@@ -138,6 +139,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/MAVERICKK97/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/MAVERICKK97/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/MAVERICKK97/leetcode-solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
